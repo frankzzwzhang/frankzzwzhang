@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frankzzwzhang
+- 👀 I’m interested in code
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on programming
+- 📫 How to reach me frank.zw.zhang@hotmail.com
